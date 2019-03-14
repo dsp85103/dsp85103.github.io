@@ -1,0 +1,26 @@
+.images {
+	width: 340px;
+	margin-bottom: 50px;
+	float: left;
+}
+.images > img {
+	padding: 20px;
+}
+
+.images:hover {
+  border-bottom: 5px solid #777;
+  background-color: #E0E0E0;
+}
+
+.pictitle {
+  	text-align: center;
+}
+
+.desc {
+	margin: 15px;
+	margin-top: 0px;
+}
+
+.link {
+	text-decoration:none;
+}
